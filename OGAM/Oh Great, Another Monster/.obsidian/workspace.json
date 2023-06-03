@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "ccba37d69bbe931a",
+    "type": "split",
+    "children": [
+      {
+        "id": "66e41dd93b4e4f5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3aba698fdd5d9a0a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ce523f42a1e6224",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdeadb16cb964eaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ec0a6c872147aab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "489fe21877b8d358",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de1c630d7cace575",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2a0276a24c18f6d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6a4538baf214061c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bb6c4f5eef51a1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16f85c869c55d7db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "50f5acb08d0152a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "77027eb7eaccec67",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "32e0ca6245cfc003",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3aba698fdd5d9a0a",
+  "lastOpenFiles": [
+    "People/Aneimal05.md",
+    "People/RibbonGG.md",
+    "People/ImInUrBalls.md",
+    "People/Anonymoususer49.md",
+    "People/DUP.md",
+    "Organizations/Task Forces/Ghost Brawlers.md",
+    "Anomalies/Ghost.md",
+    "Organizations/Religion/Knights of The Flying Spaghetti Monster.md",
+    "Organizations/Religion/Knights of The End.md",
+    "! World Info/Locations/Nowhere, NY.md",
+    "Apps/Ndrkvr.md",
+    "Occupations/Monster Hunter.md",
+    "Occupations/Anomaly Researcher.md",
+    "! World Info/Overview.md",
+    "Anomalies/Demon.md",
+    "Anomalies/Aliens.md",
+    "Anomalies/Indigo Folk.md",
+    "Anomalies/Mimic.md",
+    "Anomalies/The Upside Down.md",
+    "Organizations/Social Groups/ACU.md",
+    "Organizations/Social Groups/Anomalous.md",
+    "Organizations/Social Groups/Zootube.md",
+    "Organizations/Corporations/AntiSci.md",
+    "Anomalies/Cryptids/Nessie.md",
+    "Anomalies/Cryptids/Winchester Mystery House.md",
+    "Anomalies/Cryptids",
+    "Organizations/Task Forces/ATA.md",
+    "Anomalies",
+    "! World Info/Locations",
+    "Organizations/Social Groups",
+    "People",
+    "Organizations/Religion",
+    "Organizations/Task Forces",
+    "Organizations/Corporations",
+    "Apps",
+    "Occupations"
+  ]
+}

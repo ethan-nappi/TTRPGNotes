@@ -1,0 +1,1 @@
+report to adv guild with proof of kill

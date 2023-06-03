@@ -1,0 +1,1 @@
+computing anomaly in charge of [[Anomalous]], secretly close friends with [[RibbonGG]]

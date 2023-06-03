@@ -1,0 +1,1 @@
+[[colorado city]] was killed or [[lotus eater]], concscripted into [[citadel]] army when lotus ate

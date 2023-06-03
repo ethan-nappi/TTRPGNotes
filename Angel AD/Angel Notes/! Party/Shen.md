@@ -1,0 +1,5 @@
+- old name Tau
+- gladiator in [[Hogsback]]
+- beat [[Kennith]]
+- [[Leon]] is his manager
+- fights to get by

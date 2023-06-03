@@ -1,0 +1,1 @@
+Humans with the ability to interact with anomalies. This is an umbrella term for those who obtain "supernatural" or anomalous abilities.

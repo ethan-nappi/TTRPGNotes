@@ -1,0 +1,1 @@
+term used for a person who goes missing while on a [[Hogsback]] mission

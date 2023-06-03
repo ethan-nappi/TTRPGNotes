@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "a6d227bd3fca7dc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "365453de1ac83dfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a6d27cc31dd8ecd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!Party/Zaida.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "292a08a4025d2c86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!Party/Syr Asher.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa372de7b25903ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cippy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e559c49bd15f78b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!Party/Schief (SH-EE-F).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e35c4fc7bbbb2705",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!Party/Zaida.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "763f16a23c953ae9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Syr Keelin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "408dec99e773abb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e2062c1d2853631",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c3323a23fefea4d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "765d4b0e2c2d861c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e4d728889bec5131",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5
+  },
+  "right": {
+    "id": "cd6d753ccce98d32",
+    "type": "split",
+    "children": [
+      {
+        "id": "280c394b70e14f82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4203ea14be4dff2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "!Party/Zaida.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a02eb14443cac97",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "!Party/Zaida.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c5fe28fe96c8a47e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5ce0a8e7739df5dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "!Party/Zaida.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e35c4fc7bbbb2705",
+  "lastOpenFiles": [
+    "!Party/Syr Asher.md",
+    "!Party/Schief (SH-EE-F).md",
+    "!Quests/Save the King!.md",
+    "Locations/All-Field.md",
+    "Locations/Burning Mare Tavern.md",
+    "People/Syr Keelin.md",
+    "!Party/Zaida.md",
+    "Cippy.md",
+    "People/NPC",
+    "Locations",
+    "!Party",
+    "People",
+    "!Quests"
+  ]
+}

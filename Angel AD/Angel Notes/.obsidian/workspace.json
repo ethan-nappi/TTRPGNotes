@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "bd2c51704a0cd225",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fac925e9f9afeef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a2818b4cdaebb76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "! Quests/Complete/Science Outpost Mission.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0eb734a1ac6b234",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9cb52821a8f5781b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "! new notes/Pats the zombie pig.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc3a54a79e2bb9b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "00f44a71118b41dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b37c5fa8a3790799",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f2218cde03c7a3e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e95c4098eb59495f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "079972095d73787a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5ea2189461c5617a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fede52f2e8c6862",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96dd64e7f9ef7e1b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "! new notes/Pats the zombie pig.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "608d208baa3c1cc7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "! new notes/Pats the zombie pig.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03b390b3854dfcc9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "26c8fa12eff7d23f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "! new notes/Pats the zombie pig.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9cb52821a8f5781b",
+  "lastOpenFiles": [
+    "! new notes/Pats the zombie pig.md",
+    "! Party/Fiona.md",
+    "! Party/Angel.md",
+    "! Party/Jacob.md",
+    "! Party/Leon.md",
+    "Settlements/Citadel.md",
+    "! new notes/his daughter.md",
+    "! new notes/Joe Palmer.md",
+    "! new notes/Colton.md",
+    "! new notes/Book.md",
+    "! Party/Shen.md",
+    "! Quests/Colton Hag.md",
+    "! Quests/Complete/Science Outpost Mission.md",
+    "Events/Civil war.md",
+    "NPCs/Mysterious Crescent Man.md",
+    "! Quests/Another Research Facility.md",
+    "Settlements/Elysium.md",
+    "! Quests/Mini train.md",
+    "! Quests/Eli from Telluride.md",
+    "NPCs/Hogsback/Mayor Cameron Hauss.md",
+    "NPCs/Angel Personal/Iven Farkus.md",
+    "! Quests/Resources form Telluride.md",
+    "! Party/! Party.md",
+    "! Quests/Complete",
+    "NPCs/Sally Worcestermine.md",
+    "Groups/the cult.md",
+    "After Dark Facts/lotus eater.md",
+    "Events",
+    "Groups",
+    "! new notes",
+    "After Dark Facts",
+    "NPCs/Hogsback",
+    "! Quests",
+    "NPCs/Angel Personal",
+    "Settlements",
+    "NPCs"
+  ]
+}

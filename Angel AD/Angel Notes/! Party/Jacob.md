@@ -1,0 +1,5 @@
+- “security detail”
+- blacksmith in [[Hogsback]]
+- knows the mayor well and basically anyone else around
+- blue tattered bandana, him and [[his daughter]] have that tied on their arms
+- believes in Destiny, thinks things happen for a reason and that he's destined to find his daughter

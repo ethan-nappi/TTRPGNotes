@@ -1,0 +1,1 @@
+Colenel from [[citadel]] splinter cell, locked up in [[Hogsback]]

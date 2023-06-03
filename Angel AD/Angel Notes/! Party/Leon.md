@@ -1,0 +1,4 @@
+- [[Mayor Cameron Hauss]] assistant [[Hogsback]]
+- Leon gets some of his tea from [[Iven Farkus]]
+- Left out the citadel detail from the mission report
+- ask to look over the research documents
