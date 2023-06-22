@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3aba698fdd5d9a0a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "68a4705da32fbe15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anomalies/Mimic.md",
+                "file": "Events/Battle Of LA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anomalies/Mimic.md",
+                "file": "Events/Battle Of LA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anomalies/Mimic.md",
+                "file": "Events/Battle Of LA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anomalies/Mimic.md"
+                "file": "Events/Battle Of LA.md"
               }
             }
           }
@@ -165,9 +156,13 @@
   },
   "active": "68a4705da32fbe15",
   "lastOpenFiles": [
-    "Anomalies/Cryptids/Nessie.md",
-    "People/Aneimal05.md",
+    "Organizations/Corporations/WendiGOGO.md",
+    "Events/Battle Of LA.md",
+    "Events",
     "People/RibbonGG.md",
+    "People/Aneimal05.md",
+    "Anomalies/Mimic.md",
+    "Anomalies/Cryptids/Nessie.md",
     "People/ImInUrBalls.md",
     "People/Anonymoususer49.md",
     "People/DUP.md",
@@ -183,15 +178,12 @@
     "Anomalies/Demon.md",
     "Anomalies/Aliens.md",
     "Anomalies/Indigo Folk.md",
-    "Anomalies/Mimic.md",
     "Anomalies/The Upside Down.md",
     "Organizations/Social Groups/ACU.md",
     "Organizations/Social Groups/Anomalous.md",
     "Organizations/Social Groups/Zootube.md",
     "Organizations/Corporations/AntiSci.md",
-    "Anomalies/Cryptids/Winchester Mystery House.md",
     "Anomalies/Cryptids",
-    "Organizations/Task Forces/ATA.md",
     "Anomalies",
     "! World Info/Locations",
     "Organizations/Social Groups",
@@ -199,7 +191,6 @@
     "Organizations/Religion",
     "Organizations/Task Forces",
     "Organizations/Corporations",
-    "Apps",
-    "Occupations"
+    "Apps"
   ]
 }
