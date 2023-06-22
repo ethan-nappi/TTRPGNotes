@@ -1,0 +1,1 @@
+Daleton is a port city located at the mouth of the [[Sylriver]]. It is one of six cities with capabilities of sea trade but is the leader in sea trade and has the largest navy. Daleton gets its name from the kings in which have ruled Daleton since it's very beginnings, all of whom have the first name Dale. The kingdom is the current leader in all areas relating to the sea.

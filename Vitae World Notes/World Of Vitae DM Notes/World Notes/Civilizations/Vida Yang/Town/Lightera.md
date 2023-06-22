@@ -1,0 +1,1 @@
+Lightera is a human town owned and protected by [[Kitan]]. This town is known to be a great resting place for those going on long travels. The town is popular in the campaign for being the place in which the [[Dungos & Dragos]] players started their first session (after fleeing [[Kitan]]) and also being the place where [[Nim]]'s tavern, The [[Leaky Tankard]], is.

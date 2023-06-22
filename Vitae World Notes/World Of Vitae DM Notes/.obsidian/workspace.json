@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "cfd0602b5af56fec",
+    "type": "split",
+    "children": [
+      {
+        "id": "f10391eb86d32b6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0a6d3fcce6de577",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "87d28da83c30af4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Notes/Civilizations/City/Vallar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63f7580f5825ed71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Notes/Organizations & Groups/Religious/Dragon's Breath Cult.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "966d1fe13facd3bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Notes/Characters/People/Adventurers/Nook.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ef18292cea660cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Notes/Civilizations/Village/Popsra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b243534e5ebe3f52",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5167cfe9e62357b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1ad8a913538ef8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8afbad45ae5d59ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "World Notes/Civilizations/Village/Popsra.md"
+              }
+            }
+          },
+          {
+            "id": "8ef105c7348d8360",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 312.5
+  },
+  "right": {
+    "id": "57da42a14907ac08",
+    "type": "split",
+    "children": [
+      {
+        "id": "b278799b613eb67e",
+        "type": "tabs",
+        "dimension": 46.75324675324675,
+        "children": [
+          {
+            "id": "c0e4d3a427ba1cb7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e74ca54cad0e8fd5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "57b1cbda186d4734",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "7cf0ce352e6a5acd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ef1f0f80d753568b",
+        "type": "tabs",
+        "dimension": 53.246753246753244,
+        "children": [
+          {
+            "id": "b84f6f712f940386",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "World Notes/Civilizations/Village/Popsra.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "febbe13309198a8e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "World Notes/Civilizations/Village/Popsra.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310.5
+  },
+  "active": "8ef18292cea660cc",
+  "lastOpenFiles": [
+    "World Notes/Civilizations/City/Bontar.md",
+    "World Notes/Characters/People/Adventurers/Nook.md",
+    "World Notes/Characters/People/Adventurers/Nawvel.md",
+    "World Notes/Characters/Legend/Lady Sadine.md",
+    "World Notes/Organizations & Groups/Religious/Dragon's Breath Cult.md",
+    "World Notes/Civilizations/Town/Lightera.md",
+    "World Notes/Fauna-Flora/Flora/Moon Flower.md",
+    "World Notes/Fauna-Flora/Flora/Sin Petal.md",
+    "World Notes/Fauna-Flora/Flora/Scream Bloomin.md",
+    "World Notes/Fauna-Flora/Flora/Undershroom.md"
+  ]
+}

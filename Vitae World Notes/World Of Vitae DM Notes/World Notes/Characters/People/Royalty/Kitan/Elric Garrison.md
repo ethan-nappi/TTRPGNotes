@@ -1,0 +1,4 @@
+#Kitan  #Royalty #Garrison #King #human #Leader 
+# King Elric of Kitan
+
+Former Human King of [[Kitan]], Elric can be described as fair and stern. Most people feel pretty neutral about him as he has done a lot of work to help reshape and restore some of the grosser parts of the city and to crack down on crime but with that comes more restrictions and curfews that the town has had to come to terms with. His two daughters Roseanne and Elizabeth who he wishes to one day let have his position. Elric’s wife, the Elven [[Tellina Garrison-Windire]] is known for her beauty and her care for the people. She seems to be the reason why Elric isn’t completely authoritarian but she isn't as involved in politics as the daughters are.

@@ -1,0 +1,8 @@
+Bladesmill was formed in 374 ADP by a sect of miners and weaponsmith workers that felt they were being mistreated by [[Uniton Republa]]. After splitting off from Uniton and forming their own settlement, they quickly began to make profit off of the nations of [[Vida Yang]] who sought quality armors and weapons. Most of Blademills population and it's state as a denser state comes from the frequent in and out traffic of traders, military personnel, and weaponsmiths.  Bladesmill is often shortened to Bladsml when inscribing weaponry or making transactions to speed up the process. Most variations of spelling Bladesmill is accepted as long as it was written misspelt in Bladesmill and going outbound.
+
+### Structure
+
+Bladesmill is lead by the executives of the top armorers, weaponsmiths, and mining organizations with the most income known as Hiltsmen. Only recently has gunsmiths joined that list of organizations but currently none make enough money to hold any power. Chief executives of the top five organizations choose two others within their company to run with them as advisors, these are known as Rightlymen. Twenty others are also chosen from any organization within Bladesmill as extra voters and advisors on policies within the government. These are known as Finaliers. New Hiltsmen are reassessed every six years and at the halfway point of each of those terms new Rightlymen must be picked as well. No Hiltsman can serve more than two terms. If top organizations stay the same, and a Hiltsman has already served two terms, then they must pick the next in command of that organization or lose their spot to the next organization in line.
+
+**Leader**
+[[Ivil Basalent]]

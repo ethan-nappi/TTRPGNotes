@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "865060552911c707",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1213905caccec78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd4d93a0e84fc590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Of Vitae DM Notes/World Notes/Characters/People/Criminals/Lindsey Twoorb.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07a1c7c0d08400ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e89a651ec055686",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0612a7505b875139",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ae9047c79cf5aff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a563d0af5572f96f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "66f77d393cfde5e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "656abcf6431a5b9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "41bed00533f19c9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bdbec664614b134",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "World Of Vitae DM Notes/World Notes/Characters/People/Criminals/Lindsey Twoorb.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd2a8fafea2f7e03",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "World Of Vitae DM Notes/World Notes/Characters/People/Criminals/Lindsey Twoorb.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60ccae9face33520",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6ab46eeb9e254a0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "World Of Vitae DM Notes/World Notes/Characters/People/Criminals/Lindsey Twoorb.md"
+              }
+            }
+          },
+          {
+            "id": "3d74966bcfc1c077",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3dfc9d8b32b9cddf",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b0600ce503e51f7",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "fd4d93a0e84fc590",
+  "lastOpenFiles": [
+    "World Of Vitae DM Notes/DM Notes/Session Recaps/Campaign 3 - Fate/Session 1 Pilot.md",
+    "World Of Vitae DM Notes/World Notes/Characters/People/Criminals/Lindsey Twoorb.md",
+    "World Of Vitae DM Notes/World Notes/Characters/People/Criminals",
+    "World Of Vitae DM Notes/World Notes/Characters/People/Adventurers/Amelya Senti.md",
+    "World Of Vitae DM Notes/World Notes/Geography/Vitae/Alma Yin/Alma Yin.md",
+    "World Of Vitae DM Notes/World Notes/Geography/Vitae/Ise Yen/Ise Yen.md",
+    "World Of Vitae DM Notes/World Notes/Geography/Vitae/Vida Yang/Aardenvi Mountains.md",
+    "World Of Vitae DM Notes/World Notes/Geography/Vitae/Vida Yang/Dragon Valley.md",
+    "World Of Vitae DM Notes/World Notes/Geography/Vitae/Vida Yang/Bamguard Forest.md",
+    "World Of Vitae DM Notes/World Notes/Events/Dragon Witch Trials Of Vallar.md",
+    "World Of Vitae DM Notes/World Notes/Events/The Denial War of Beasts And Nature.md",
+    "World Of Vitae DM Notes/World Notes/Civilizations/Vida Yang/Town/Halfway.md",
+    "World Of Vitae DM Notes/World Notes/Civilizations/Vida Yang/Town/Daleton.md",
+    "World Of Vitae DM Notes/World Notes/Civilizations/Vida Yang/Town/Lightera.md",
+    "World Of Vitae DM Notes/World Notes/Civilizations/Vida Yang/Village/Tiny Hut.md",
+    "World Of Vitae DM Notes/World Notes/Civilizations/Vida Yang/Village/Xallah.md",
+    "World Of Vitae DM Notes/World Notes/Civilizations/Vida Yang/Village/Teraxi.md",
+    "World Of Vitae DM Notes/World Notes/Civilizations/Vida Yang/Village/Popsra.md",
+    "World Of Vitae DM Notes/World Notes/Civilizations/Vida Yang/Village/Nessel.md",
+    "World Of Vitae DM Notes/World Notes/Geography/Vitae/Vida Yang/Vida Yang.md",
+    "World Of Vitae DM Notes/World Notes/Geography/Vitae/Vitae.md",
+    "World Of Vitae DM Notes/World Notes/Civilizations/Vida Yang/Town/Int'Alla.md",
+    "World Of Vitae DM Notes/World Notes/Organizations & Groups/Institution/Aspirit Guild.md",
+    "World Of Vitae DM Notes/World Notes/Civilizations/Vida Yang/Town/Bladesmill.md",
+    "World Of Vitae DM Notes/World Notes/Civilizations/Vida Yang/Town/Antor.md",
+    "World Of Vitae DM Notes/World Notes/Civilizations/Vida Yang/City/Wogana.md",
+    "World Of Vitae DM Notes/World Notes/Civilizations/Vida Yang/City/Volcandor.md"
+  ]
+}

@@ -1,0 +1,1 @@
+A forgotten city of dragons. One of the oldest cities on [[Vida Yang]], it was lost when the dragons were casted out from the continent and its worth stolen or burned.

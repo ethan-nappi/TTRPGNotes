@@ -1,0 +1,93 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"World Of Vitae DM Notes/World Notes/Characters/People/Royalty/Volcandor\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"World Of Vitae DM Notes/World Notes/Characters/People/Royalty/Kitan\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"World Of Vitae DM Notes/World Notes/Geography\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"World Of Vitae DM Notes/World Notes/Fauna-Flora\"",
+      "color": {
+        "a": 1,
+        "rgb": 3309874
+      }
+    },
+    {
+      "query": "path:\"World Of Vitae DM Notes/World Notes/Writing & Proses\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"World Of Vitae DM Notes/World Notes/Characters/Patheon\"",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"World Of Vitae DM Notes/World Notes/Items\"",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "file:nook",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:\"World Of Vitae DM Notes/World Notes/Civilizations\"",
+      "color": {
+        "a": 1,
+        "rgb": 6801872
+      }
+    },
+    {
+      "query": "path:\"World Of Vitae DM Notes/World Notes/Characters\"",
+      "color": {
+        "a": 1,
+        "rgb": 12098948
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.112769485903814,
+  "repelStrength": 9.55223880597015,
+  "linkStrength": 1,
+  "linkDistance": 329,
+  "scale": 0.11660891579457325,
+  "close": false
+}

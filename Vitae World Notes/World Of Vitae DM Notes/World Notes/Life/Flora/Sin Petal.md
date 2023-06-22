@@ -1,0 +1,1 @@
+These flowers are rumored to taste like your favorite fruit as long as you haven't killed anything believed to contain a soul. 
