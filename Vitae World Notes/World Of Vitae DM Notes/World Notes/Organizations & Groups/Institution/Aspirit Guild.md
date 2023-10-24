@@ -8,9 +8,9 @@ Their structure can be simplified into three parts. The High Seers at the top, M
 
 **Mystics** are experienced members who have proven to have potential to remain largely independent and can provide guidance when put into groups. They often are told to investigate higher stake assignments where information correctness is vital and the investigation must be done efficiently. Alternatively, they can be seen gathering the collective information from Wonderkin groups, organizing where they should go next and filtering out useless information. Mystics have access to more locations than Wonderkin in that they're allowed into most private libraries, laboratories, and research areas. 
 
-**Wonderkin** are among the lowest in the rankings, they're often the ones out asking lesser important individuals questions and doing investigations almost exclusively in spaces available to the public. To become a wonderkin you must have a recommendation from a library in the area of the Aspirit center and have an interview conducted to make sure you are genuinely interested in the pursuit of discovery. All new members of the Aspirit Guild are wonderkin. 
+**Wonderkin** are among the lowest in the rankings, they're often the ones out asking lesser important individuals questions and doing investigations almost exclusively in spaces available to the public. To become a Wonderkin you must have a recommendation from a library in the area of the Aspirit center and have an interview conducted to make sure you are genuinely interested in the pursuit of discovery. All new members of the Aspirit Guild are Wonderkin. 
 
-**Aspirit Guild Groups** are separated based on their areas of expertise and consist of mystics and wonderkin but not high seers. Whether they focus on archaeology, translation, magic, or some other area, they will have their own name (typically in common). Here are some well-known groups:
+**Aspirit Guild Groups** are separated based on their areas of expertise and consist of mystics and Wonderkin but not high seers. Whether they focus on archaeology, translation, magic, or some other area, they will have their own name (typically in common). Here are some well-known groups:
 
 -   Beaut - Investigators that gather information to improve general health.
 -   Clam - Individuals who handle exploration off the mainland or in the water.

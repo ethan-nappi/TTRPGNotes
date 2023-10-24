@@ -6,8 +6,9 @@ Cassandra - librarian
 Erinavell - elf teen
 amelya - grabbin a drink
 
-book in goobus inv. - vitae lullabies, Uniton history
+books in goobus inv. - vitae lullabies, Uniton history
 
+Will o wisps -
 will - 79
 bill - 17
 william - 30

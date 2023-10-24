@@ -13,6 +13,7 @@ She is very obstinate.
 She always has time to help others.
 She doesn't like listening to jokes.
 
+She is the head of an international drug dealing circle in Popsra.
 ##### Ability Scores
 
 **Strength**
@@ -51,4 +52,3 @@ In a relationship
 **Evil** **Chaotic**
 Plot Hook
 
-She is the head of an international drug dealing circle in Popsra.

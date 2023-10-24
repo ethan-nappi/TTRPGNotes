@@ -1,0 +1,1 @@
+In a forest, fox yapping, snuck my way to a clearing with a log cabin, found a DB shotgun and then found [[Dr. Slavic Zelenka]] upstairs. After an earthquake, thuds hit the roof, and a bright light flashes through the window, I look outside and see a [[Nightgaunt]], dream ends.

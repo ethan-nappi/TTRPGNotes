@@ -14,14 +14,11 @@ Lux is the favored deity of humans and is worshiped by most clerics and paladins
 [[Nox]] - Goddess of Darkness
 Nox is responsible for the moon, shadows, and mystery. She is the least favored of the deities, often being associated with evil. Many see her magic as being meant for confusion, control, or obstructing the world in a harmful way. In most kingdoms her exclusive worship is illegal but can be worshiped alongside Lux. Nox is depicted as the younger sister of Lux in most literature and often is shown being pushed down by the other deities to keep her from wreaking havoc on Vitae.
 
-In historical texts, priests have been documented to push the idea that worshiping Nox believing that her destructive tendencies originate from becoming envious of Lux's praise. However, those same priests after their deaths were found to have been practicing witchcraft.
-
 [[Sturm]] - God of Tempest
 Sturm is responsible for storms, wind, and controlling the flow of water (requiring assistance from Maturl and Nox). Sturm is often worshiped by farmers for plentiful rain and by fishermen for calm seas.
 
-[[Airda]] - Goddess of Nature
-Airda is the favored deity of druids and is responsible for the handling of vegetation, nurturing, and growth.
-
+[[Toitsu]] - Goddess of Unity
+Toitsu is responsible for teamwork and binding creatures together. Toitsu is believed to be the reason for why civilization and the feeling of love exists.
 
 [[Aries]] - God of Fury
 Aries is most commonly favored by dwarves and barbarians. Aries is seen as being responsible for anger, strong emotions, and sometimes passion. Although capable of inducing rage on his own, requires the assistance of Fredte for determination and Nox for emotions that combine sadness.
@@ -34,10 +31,8 @@ Fredte is worshiped by Silvaya and is responsible for diplomacy and calm emotion
 [[Deair]] - God of Beasts
 Deair is often worshiped by hunters, farmers, and rangers and is responsible for all non-sentient creatures. Praying and performing rituals for Deair are believed to provide different results for each group. For hunters, they believe Deair will grant them a bountiful hunt. For farmers, they believe they will receive protection from beasts wanting to eat their crop, their livestock, or them. For rangers, they believe they will be granted protection for both themselves and the forests they protect as well as a chance to receive their own companion.
 
-
-[[Toitsu]] - Goddess of Unity
-Toitsu is responsible for teamwork and binding creatures together. Toitsu is believed to be the reason for why civilization and the feeling of love exists.
-
+[[Airda]] - Goddess of Nature
+Airda is the favored deity of druids and is responsible for the handling of vegetation, nurturing, and growth.
 
 [[Pulan]] - God of Knowledge
 Pulan is responsible for any information that can be learned such as history, science, mathematics and magic (although is not responsible for magic itself). Pulan is most often worshiped by scholars and wizards although really gained popularity after [[Te-Guid]] revealed his deep worship for Pulan.

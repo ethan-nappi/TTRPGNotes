@@ -1,0 +1,1 @@
+yellow rain coat, lighthouse keeper, fish monster that attacked us

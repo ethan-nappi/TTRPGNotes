@@ -1,1 +1,1 @@
-These flowers are rumored to taste like your favorite fruit as long as you haven't killed anything believed to contain a soul. 
+These flowers are rumored to smell like your favorite fruit as long as you haven't killed anything believed to contain a soul. Otherwise they smell like the smell of what you killed after it's death.

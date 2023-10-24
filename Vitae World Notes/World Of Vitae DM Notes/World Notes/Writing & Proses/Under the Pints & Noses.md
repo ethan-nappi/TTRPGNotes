@@ -40,4 +40,4 @@ Under the pints and noses of us
 
 ## History
 
-This song was written by a bard of [[Halfway]] who frequently attended the [[Dirty Pipe Tavern]] soon after the [[Halfway Massacre]].
+This song was written by a bard of [[Halfway]] who frequently attended the [[Dirty Pipe Tavern]]. It was written soon after the [[Halfway Massacre]].

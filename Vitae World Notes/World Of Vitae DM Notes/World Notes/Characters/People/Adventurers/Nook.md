@@ -26,11 +26,7 @@
 > | Class | Sorcerer |
 > | Languages | Dwarvish, Draconic, Infernal, ████, and Common |
 
-# "The Dark Child"
-A ten year old girl who never had the chance to have a normal childhood. Orphaned, hunted, and bullied, Nook wishes for a moment of normalcy.
-
-The bearer of a powerful book of magic, the [[Vitae Completium III]], the one destined to tame the first sighted purple dragon, and a fan of all things purple, Nook, at only age 10, has a long strange life ahead of her.
-
+# Nook Overview
 ## Appearance
 
 ###### PHYSICAL DESCRIPTION
@@ -113,3 +109,11 @@ Nook's speech fluctuates a lot with her mood and with who she's talking to. She 
 
 ###### ENEMIES
 [[Dragon's Breath Cult]]
+
+# "The Dark Child" - Age 10
+A ten year old girl who never had the chance to have a normal childhood. Orphaned, hunted, and bullied, Nook wishes for a moment of normalcy.
+
+The bearer of a powerful book of magic, the [[Vitae Completium III]], the one destined to tame the first sighted purple dragon, and a fan of all things purple, Nook, at only age 10, has a long strange life ahead of her.
+
+# "Devil's Little Witch" - Age 12
+Only twelve and she's now on the run, now that the continent believes she was the one responsible for killing a group of heroes that struck down 

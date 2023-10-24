@@ -1,7 +1,7 @@
 #Mentor #Aarakocra #Monk #Kensei
 ## Summary
 
-Ahven is an Aarakocra monk that owns the [[Monastery Of Aard]]. His origins are unknown but has made it clear through teaching his students that he means to do good. 
+Ahven is an Aarakocra monk that owns the [[Monastery of Aard]]. His origins are unknown but has made it clear through teaching his students that he means to do good. 
 
 ## Appearance
 

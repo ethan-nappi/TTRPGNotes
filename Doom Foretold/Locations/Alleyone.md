@@ -1,0 +1,1 @@
+Elf village that was attacked, undead raised by mysterious force/person, [[Emelia]]

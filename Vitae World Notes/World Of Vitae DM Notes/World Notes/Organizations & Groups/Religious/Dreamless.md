@@ -1,0 +1,1 @@
+Astral group of [[Noxmares]] that feast off of restlessness. This sect of Noxmares targets individuals on the material plane and stick to their hosts until they've perished or otherwise can't gather more.

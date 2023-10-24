@@ -1,0 +1,1 @@
+spirits that inhabit death ridden environments, sap the energy from the world around them

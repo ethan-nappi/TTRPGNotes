@@ -1,0 +1,7 @@
+---
+title: Testing index rmd
+author: NapeNapeNapeNapeNapeNapeNapeNapeNapeNape
+output: html_document
+github_repo: https://ethan-nappi.github.io/TTRPGNotes/
+---
+

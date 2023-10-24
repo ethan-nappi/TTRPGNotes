@@ -1,0 +1,1 @@
+upset protester owns the shop, money was left inside the register 

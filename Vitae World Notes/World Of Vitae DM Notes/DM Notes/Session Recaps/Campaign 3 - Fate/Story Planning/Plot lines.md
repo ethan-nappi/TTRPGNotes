@@ -1,5 +1,5 @@
 ## Long Arc 1: Little Band of Heroes
-Purpose: Each PC finds a new home with eachother
+Purpose: Each PC finds a new home with each other
 
 ### Arc 1: Devil's Little Witch
 Purpose: What's going on with this girl?
@@ -43,7 +43,7 @@ Aspects: Witch's hut, eerie
 - Nook lost something very near and dear to her
 - Her attack was not her fault
 - Nook killed close friends
-- Nook's cat keeps her safe from the [[dreamless]]
+- Nook's cat keeps her safe from the [[Dreamless]]
 
 #### B-Plot 2: The Journey
 Purpose: Pick out their new approach to finding the witch
@@ -61,18 +61,18 @@ Aspects: Lively, contact/resource hub
 A number of organizers want these adventurers on their side, they all offer a bid, resources, and a promise
 
 ###### Silvayan Hunter
-El Fing, Ela, and his kids
-wants to right a wrong
-weak offer
+- [[El Fing]]
+- wants to right a wrong (he feels bad for connecting Nook with the original party and letting the cult get so close twice)
+- Expert ranger, can't offer much but his assistance, trust, and protection right now
 
 ###### Antor Representative
-Occupants
-- Baron Lindo'neer Villtri (and personal guard)
-- Amelya Senti
-- Kei Merris and Buzz
-- Strong offer
+- [[Baron Lindo'neer Villtri]] (and personal guard)
+- Offers 300gp each and additional magical supplies/assistance in catching the witch
 
-###### Kitan Princess
-Strong offer
+###### Kitan Rogue
+- [[Elizabeth Garrison]] as Lily Thorne
+- Offers 500gp each to successful retrieval of the little witch and a personal connection with [[Kitan]]'s royalty
 
 ###### UAW Representatives
+- Portgully Schmidt
+- Businessman with loads of contacts, resources, and influence in Uniton

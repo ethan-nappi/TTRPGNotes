@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "e342886a3b777c98",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0a41aa529973552",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a4a901febd6f41d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!Party/Frieden's story.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "331041cf77413fb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dd64c612590f98c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ba05a1e92171e02",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "16c93b4c5e96f252",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Hundora",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc97189443100f2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "68ccaa880df61104",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a20596e380f927a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f4a657e8ff4aca3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "!Party/Frieden's story.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f1fd7ddf515c0d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "!Party/Frieden's story.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a0038153c939fd3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "34de32de7199e8a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "!Party/Frieden's story.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "16c93b4c5e96f252",
+  "lastOpenFiles": [
+    "!Party/Frieden's story.md",
+    "!Quests/- In Progress",
+    "!Quests/Complete",
+    "!Quests",
+    "Items",
+    "NPCs/Lysandria",
+    "NPCs/Party",
+    "NPCs",
+    "Creatures",
+    "Locations/Lysandria",
+    "Locations",
+    "yeert/yeet.md"
+  ]
+}

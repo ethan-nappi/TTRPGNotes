@@ -1,0 +1,1 @@
+company within the closed blocks, people can't get access in

@@ -18,7 +18,7 @@ Family:
 - Dad 
 - unnamed older sibling (also crazy), in mental home 
 
-Spirits showed up around 13-14, 
+Spirits showed up around 13-14,  [[Noxmares]], maybe [[Dreamless]]?
 Spirits weren't bad til 15, met nutcracker at 16 in an alleyway after a breakdown
 Went monster hunting soon after, did it to survive, her side hustle with no main hustle
 
@@ -28,7 +28,7 @@ Quests:
 
 Nutcracker went missing within last year
 
-Nutcracker (10ish?), can percieve and eliminate the spirits, killed number 87
+Nutcracker (10ish?), can percieve and eliminate the spirits, killed "number 87"
 
 # Story Ideas
 

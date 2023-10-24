@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "b5b1562755ec6e38",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cc7d5117918be85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dced5204179af35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Newburyport/Newburyport Oracle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c75a1e55f151cfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Newburyport.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b31bf5c16760969",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9cee680933309e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "737389991c30f710",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c92c0ac1244a424",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "154adc7c4fd7a9a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ff8684c665bb24e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "eef88c80fec71521",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9c5065106dea404",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NPCs/Newburyport/Newburyport Oracle.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32a23ece9fe981b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NPCs/Newburyport/Newburyport Oracle.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d56e619ab59c8435",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "54e3be8af206b239",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NPCs/Newburyport/Newburyport Oracle.md"
+              }
+            }
+          },
+          {
+            "id": "7b2601447ea226b8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6dced5204179af35",
+  "lastOpenFiles": [
+    "Locations/Newburyport.md",
+    "NPCs/Newburyport/Newburyport Oracle.md",
+    "Locations/Dreamworld.md",
+    "Locations/Flower shop.md",
+    "Events/Dream 1.md",
+    "NPCs/Mythos/Lord Dagon.md",
+    "Delano Gwyn.md",
+    "NPCs/Mythos/Blind Idiot.md",
+    "Events/Slipping of the worlds.md",
+    "NPCs/Newburyport/Mala.md",
+    "!PCs/Alexander.md",
+    "!PCs/Daniel.md",
+    "!PCs/Dean Palmer.md",
+    "!PCs/Dr. Slavic Zelenka.md",
+    "!PCs/Krieg.md",
+    "Groups/FBI.md",
+    "NPCs/Party/Barry Wrangler.md",
+    "NPCs/Party/Georgie.md",
+    "NPCs/Newburyport/Arwood.md",
+    "NPCs/Newburyport/Dr Oscar.md",
+    "NPCs/Newburyport/Ian.md",
+    "Locations/Mackwell Fish Stand.md",
+    "Groups/Nightwalkers.md",
+    "Groups/Newburyport homeless.md",
+    "Groups/Cultural Brokerage Charity.md",
+    "Locations/Hole 2.md",
+    "NPCs/Mythos",
+    "NPCs/Party",
+    "NPCs/Indiana",
+    "NPCs/Boston",
+    "NPCs/Newburyport",
+    "Groups",
+    "Events",
+    "Items",
+    "Locations",
+    "NPCs"
+  ]
+}

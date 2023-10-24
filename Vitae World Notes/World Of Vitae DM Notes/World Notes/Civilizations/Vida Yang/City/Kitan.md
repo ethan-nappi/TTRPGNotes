@@ -5,7 +5,7 @@ Kitan, a city of the new world that has mantained integrity and an iron will thr
 -   174 ADP - Kitan is established as Fort Ild.
 -   204 ADP - Giants launch an unsuccessful attack on Kitan.
 -   585 ADP - Dracona seiges Kitan, ruling for nearly three decades with an Ancient Red Dragon "Misevae."
--   614 ADP - Raymond Garrison, former heir to the throne, after breaking free from prison slays Misevae along with his resistance of old Kitan citizens.
+-   614 ADP - Raymond Garrison, former heir to the throne, after breaking free from ethereal prison slays Misevae along with his resistance of old Kitan citizens.
 -   615 ADP - "Ilden King" (Giantish "Ilden": Flaming) Raymond Garrison Renames Fort Ild to Kitan, establishing it a city-state.
 -   772 ADP - Misevae's children return to inact revenge on Kitan. The attack is unsuccessful.
 -   1023 ADP - The first half-elven woman is married into Queenhood. The first non-pure human having a chance at the throne.

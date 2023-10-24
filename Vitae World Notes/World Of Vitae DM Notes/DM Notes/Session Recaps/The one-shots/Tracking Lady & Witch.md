@@ -1,6 +1,6 @@
 # Summary
 
-Tracking lady and witch is a one-shot based in 1165 ADP in Popsra. The one-shot follows a timeline where [[Nook]] is seen as an emey to the continent after an attack on the Vida Fae Festival which landed on the same day as the day great heroes overcame the threat that was the [[Dragon's Breath Cult]].
+Tracking lady and witch is a one-shot based in 1165 ADP in Popsra. The one-shot follows a timeline where [[Nook]] is seen as an enemy to the continent after an attack on the Vida Fae Festival which landed on the same day as the day great heroes overcame the threat that was the [[Dragon's Breath Cult]].
 
 ## Copy and Paste info
 
