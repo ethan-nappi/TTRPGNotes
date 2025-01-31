@@ -207,9 +207,9 @@
         ]
       },
       "current": {
-        "year": 1163,
-        "month": 5,
-        "day": 24
+        "year": 1165,
+        "month": 8,
+        "day": 22
       },
       "events": [
         {
@@ -279,7 +279,8 @@
           "name": "Campaign Recap"
         }
       ],
-      "date": 1671426401529
+      "date": 1737819277411,
+      "displayWeeks": false
     }
   ],
   "configDirectory": null,

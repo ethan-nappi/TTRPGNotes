@@ -1,0 +1,5 @@
+Something is stirring in the [[Kingdom of Virginia]]. While many live lavishly, workers are mistreated; ground to the bone to provide for richer neighbors. Meanwhile, a criminal underground has brewed for years, parasitically feasting on the poorer half in the kingdom. 
+
+[[King Archimedes]] has ruled with an unrelenting crusade of propaganda for some 20 years since his father, [[King Chester]], passed away. Promising endless expansion, and a forever increasingly lavish lifestyle for his supporters. Under this system, while some suffered to keep up with his promises, quite a few admittedly prospered. 
+
+Something has changed, however. The facade of utopia has faltered. In recent weeks, King Archimedes has developed an iron fist. Slamming the Kingdom’s criminal underworld with only a thinly veiled attempt to make his extreme decisions palatable. One such measure necessitates public hangings of criminals, attendance to which is mandatory for all citizens ages 10 and up. Like the one you’ll be attending.

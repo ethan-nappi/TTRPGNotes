@@ -1,5 +1,8 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "!NEW NOTES",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "showLineNumber": false,
+  "promptDelete": false
 }

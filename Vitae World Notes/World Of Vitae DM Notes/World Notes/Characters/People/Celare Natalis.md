@@ -1,5 +1,4 @@
-> [!warning]
-> This page includes spoilers to the story
+> [!warning] This page includes spoilers to the story
 
 ## Summary
 Cult member hung at the [[Dragon Witch Trials Of Vallar]]. She was claimed to be an early member of the [[Dragon's Breath Cult]].

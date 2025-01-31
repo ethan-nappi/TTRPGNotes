@@ -1,1 +1,1 @@
-accomplish adventuring cleric
+accomplished adventuring cleric

@@ -1,0 +1,1 @@
+executed, putters, [[Karlitos]] was with him when the putters stronghold was raided

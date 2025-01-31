@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Newburyport/Newburyport Oracle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c75a1e55f151cfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Newburyport.md",
+                "file": "Locations/Library.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Newburyport/Newburyport Oracle.md",
+                "file": "Locations/Library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Newburyport/Newburyport Oracle.md",
+                "file": "Locations/Library.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Newburyport/Newburyport Oracle.md"
+                "file": "Locations/Library.md"
               }
             }
           },
@@ -170,32 +158,33 @@
   },
   "active": "6dced5204179af35",
   "lastOpenFiles": [
-    "Locations/Newburyport.md",
-    "NPCs/Newburyport/Newburyport Oracle.md",
-    "Locations/Dreamworld.md",
-    "Locations/Flower shop.md",
-    "Events/Dream 1.md",
-    "NPCs/Mythos/Lord Dagon.md",
-    "Delano Gwyn.md",
-    "NPCs/Mythos/Blind Idiot.md",
-    "Events/Slipping of the worlds.md",
-    "NPCs/Newburyport/Mala.md",
-    "!PCs/Alexander.md",
-    "!PCs/Daniel.md",
-    "!PCs/Dean Palmer.md",
-    "!PCs/Dr. Slavic Zelenka.md",
-    "!PCs/Krieg.md",
-    "Groups/FBI.md",
-    "NPCs/Party/Barry Wrangler.md",
-    "NPCs/Party/Georgie.md",
-    "NPCs/Newburyport/Arwood.md",
-    "NPCs/Newburyport/Dr Oscar.md",
-    "NPCs/Newburyport/Ian.md",
-    "Locations/Mackwell Fish Stand.md",
-    "Groups/Nightwalkers.md",
-    "Groups/Newburyport homeless.md",
-    "Groups/Cultural Brokerage Charity.md",
+    "Locations/Mossy basement.md",
+    "Locations/Boston Museum.md",
+    "Locations/Library.md",
     "Locations/Hole 2.md",
+    "NPCs/Indiana/Higgins.md",
+    "NPCs/Louisiana/Broker knows a guy.md",
+    "NPCs/Louisiana/Delano Gwyn.md",
+    "NPCs/Newburyport/Newburyport Oracle.md",
+    "NPCs/Louisiana",
+    "NPCs/Mythos/Lord Dagon.md",
+    "Locations/Dreamworld.md",
+    "deep ones.md",
+    "NPCs/Mythos/Blind Idiot.md",
+    "Locations/Newburyport.md",
+    "NPCs/Boston/Broker.md",
+    "NPCs/Newburyport/Arwood.md",
+    "NPCs/Newburyport/Ian.md",
+    "NPCs/Boston/Officer Howitz.md",
+    "!PCs/Daniel.md",
+    "!PCs/Alexander.md",
+    "NPCs/Party/Morana.md",
+    "NPCs/Newburyport/Officer SkipJack.md",
+    "NPCs/Newburyport/Marlin.md",
+    "NPCs/Newburyport/Mala.md",
+    "NPCs/Newburyport/Mackwell.md",
+    "NPCs/Newburyport/Dr Oscar.md",
+    "NPCs/Boston/David.md",
     "NPCs/Mythos",
     "NPCs/Party",
     "NPCs/Indiana",
@@ -204,7 +193,6 @@
     "Groups",
     "Events",
     "Items",
-    "Locations",
-    "NPCs"
+    "Locations"
   ]
 }

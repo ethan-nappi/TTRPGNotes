@@ -1,0 +1,1 @@
+The gods cast out the planet due to a growing evil they couldn't stop. Leaving the denizens stranded on the edge of the planes.

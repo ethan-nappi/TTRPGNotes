@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"World Notes/Civilizations\"",
@@ -90,9 +90,16 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "path:\"DM Notes/Campaign 3 - Fate/Session Recaps\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.5,
   "nodeSizeMultiplier": 1.47330016583748,
@@ -102,6 +109,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.18462326225859552,
+  "scale": 0.25883865621818436,
   "close": true
 }

@@ -49,6 +49,10 @@ Slimes have a digestive system that consists of intaking specific kinds of mater
 # Ecology
 
 Slimes are found throughout [[Vitae]], most often where there's nearby body of water, mud, or cave system. Slime don't stray too far away from the location they're created in and will only travel if seeking a new source of sustenance. 
+
+# History
+
+Though slime come in a variety of shapes and elements, they were originally Pelantine soldiers among plant life in the Airdic army, breaking down materials for fertilizer or other repurposing. Airda and Deair worked on a creature that could serve them both and they naturally adapted to other elements.
 # Uses
 
 Slimes are typically harvested for their sumps and their outer membranes. 

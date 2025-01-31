@@ -7,3 +7,5 @@ legislation makes it difficult to make new businesses
 existing entities have massive business advantage 
 [[High Tide Cannery]] packing plant dating to 1920
 fisherman or canning workers make up most of the population
+
+newburyport corrupted itself

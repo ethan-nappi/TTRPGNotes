@@ -1,6 +1,5 @@
 #Adventurer #Tiefling #Sorcery #Vallar 
->[!warning] Spoilers
->This page contains the MOST spoilers
+>[!warning]  This page contains the MOST spoilers
 
 > [!infobox|right]
 > ###### **Nook**
@@ -12,7 +11,7 @@
 > ###### Gen. Info
 > | | |
 > | - | - |
-> |Birthplace | Vallar* |
+> |Birthplace | [[Vallar]]* |
 > |Home| [[Vallar Home of Orphans]] |
 > |Birthday|Assumed 1/1/1153 ADP|
 > | Current Location | Unknown |
@@ -45,7 +44,7 @@ When Nook gets angry her eyes glow a solid purple, the same color as her Iris.
 She wears a lightweight bright purple dress with layered fabrics at the bottom and loose sleeves, a white obi adorned with a bow, white scarf, leather backpack, black leggings, and slightly over-sized winter boots.
 
 ## Capability
-Nook is a [[Dragon Tamer]], potentially the only one in [[Vitae]].
+Nook is a [[Dragon Tamer]], potentially the only one left in [[Vitae]].
 ## Mentality
 ###### EDUCATION
 Most of Nook's education comes from [[Nawvel]] and is also from self teaching. Nawvel sat with her in the orphanage teaching her some of the things he was learning in school until she could attend it herself. She was always above her grade level in learning but scored low on tests due to the mental strain of bullying from classmates. She left before the end of her second year and stuck solely to self-teaching.  
@@ -116,4 +115,4 @@ A ten year old girl who never had the chance to have a normal childhood. Orphane
 The bearer of a powerful book of magic, the [[Vitae Completium III]], the one destined to tame the first sighted purple dragon, and a fan of all things purple, Nook, at only age 10, has a long strange life ahead of her.
 
 # "Devil's Little Witch" - Age 12
-Only twelve and she's now on the run, now that the continent believes she was the one responsible for killing a group of heroes that struck down 
+Only twelve and she's now on the run, now that the continent believes she was the one responsible for killing a group of heroes that struck down the cult two years prior.

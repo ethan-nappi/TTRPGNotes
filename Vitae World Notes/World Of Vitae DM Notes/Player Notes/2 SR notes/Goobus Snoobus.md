@@ -6,6 +6,12 @@ Aspect #3: Just wants to help
 
 Age: 8
 Type: Chromatic Slime
+
+
+
+books in goobus inv. - vitae lullabies, Uniton history
+
+Goobus thinks the witch's poster is neat and wants to meet her
 # Original
 The slime currently known as goobus snoobus. When goobus was formed goobs was a smaller slime than normal with a strange curiosity to humanoids, it would scout out and watch humans.When goobs would approach the humans they would yell “GO SHOO” throw rocks and other things at goobs. Somethings hurt when they hit goobus but others seemed like gifts to goobs. Goobus would pick up the objects and try to gift others the random stuff goobs collected. No one ever accepted. Goobus practiced on goobs own to give the gifts like the humans did making sounds. “GBus sbus” until goobs finally was happy with what it was saying mimicking the humans to the best of goobs ability, till “goobus snoobus” came out. Goobs was so happy goobs chanted Goobus snoobus displaying goobs speech so all could hear. Goobs kept trying to give gifts to the humans shouting “GOOBUS SNOOBUS” and ejecting objects from its body to the humans. Most would run away or pull a weapon on goobs making goobs run. Til one day Goobus ejected a coin to a young kid who picked it up and ran away. This made Goobus very happy it ran around looking for more coins that waiting for the kid to arrive again near the edge of the city. Days pass and goobs was still hopeful picking up coins and waiting on the outskirts of the city. Goobs saved the coins for the kid while ejecting other items at other humans who would give goobs one of the two reaction running away or fighting. Finally the kid shows up beaten and bruised Goobus lights up energeticly slimes it way to the kid and ejects coins one after another shouting Goobus Snoobus each time. The kid in shock with all the coins being ejected in his direction picks them up and approaches Guoobs very slowly and ask goobs “can I really have all this?” Goobus shakes it’s head vigorously “GOOBUS SNOOBUS”. The kid replies “Is that your name?” Goobus still vigorously shaking goobs head say in a more triumphant manner “Goobus Snoobus”.
 

@@ -4,67 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "f10391eb86d32b6a",
+        "id": "815a32166a8841b7",
         "type": "tabs",
         "children": [
           {
-            "id": "f0a6d3fcce6de577",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "87d28da83c30af4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Notes/Civilizations/City/Vallar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63f7580f5825ed71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Notes/Organizations & Groups/Religious/Dragon's Breath Cult.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "966d1fe13facd3bd",
+            "id": "2aedda304670eef7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "World Notes/Characters/People/Adventurers/Nook.md",
-                "mode": "source",
-                "source": false
-              }
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Nook"
             }
           },
           {
-            "id": "8ef18292cea660cc",
+            "id": "e630009f99634dcd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Notes/Civilizations/Village/Popsra.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "FANTASY_CALENDAR",
+              "state": {},
+              "icon": "FANTASY_CALENDAR",
+              "title": "Fantasy Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +51,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -93,8 +62,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Notes/Civilizations/Village/Popsra.md"
-              }
+                "file": "World Notes/Characters/People/Adventurers/Nook.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Nook"
             }
           },
           {
@@ -102,14 +73,26 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c1abe15961f16ba9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 241.5
   },
   "right": {
     "id": "57da42a14907ac08",
@@ -132,7 +115,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -143,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -151,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
-              "state": {}
+              "state": {},
+              "icon": "FANTASY_CALENDAR",
+              "title": "Fantasy Calendar"
             }
           },
           {
@@ -159,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -175,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Notes/Civilizations/Village/Popsra.md",
+                "file": "World Notes/Characters/People/Adventurers/Nook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +174,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Nook"
             }
           },
           {
@@ -192,29 +185,63 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Notes/Civilizations/Village/Popsra.md",
+                "file": "World Notes/Characters/People/Adventurers/Nook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Nook"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
-  "active": "8ef18292cea660cc",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false
+    }
+  },
+  "active": "2aedda304670eef7",
   "lastOpenFiles": [
-    "World Notes/Civilizations/City/Bontar.md",
+    "!Starter Notes/The Story.md",
+    "!Starter Notes/Vitae Overview (READ ME).md",
     "World Notes/Characters/People/Adventurers/Nook.md",
+    "DM Notes/Campaign 3 - Fate/Session Recaps/Session 4 Nook.md",
+    "DM Notes/Campaign 3 - Fate/Session Recaps/Session 3 The Hunt.md",
+    "DM Notes/Campaign 3 - Fate/Session Recaps/Session 2 Sponsorship.md",
+    "DM Notes/Campaign 3 - Fate/Session Recaps/Session 5 Rest.md",
+    "DM Notes/Campaign 3 - Fate/Session Recaps/Session 6 The Phoenix Queen.md",
+    "DM Notes/Campaign 3 - Fate/Session Recaps/Session 8 The Fight!.md",
+    "DM Notes/Campaign 3 - Fate/Session Recaps/Session 9 In Motion.md",
+    "DM Notes/Campaign 3 - Fate/Story Planning/Plot lines.md",
+    "DM Notes/Campaign 3 - Fate/Story Planning/Story Notes for Players.md",
+    "DM Notes/Campaign 3 - Fate/Things to do before I run the one-shot.md",
+    "DM Notes/Campaign 3 - Fate/Session Recaps/Session 1 Pilot.md",
+    "DM Notes/Campaign 3 - Fate/Session Recaps/Session 7 Festival.md",
+    "Untitled.md",
+    "World Notes/Characters/Legend/Te-Guid.md",
+    "World Notes/Characters/People/Adventurers/Hai-Eaght.md",
     "World Notes/Characters/People/Adventurers/Nawvel.md",
-    "World Notes/Characters/Legend/Lady Sadine.md",
-    "World Notes/Organizations & Groups/Religious/Dragon's Breath Cult.md",
-    "World Notes/Civilizations/Town/Lightera.md",
-    "World Notes/Fauna-Flora/Flora/Moon Flower.md",
-    "World Notes/Fauna-Flora/Flora/Sin Petal.md",
-    "World Notes/Fauna-Flora/Flora/Scream Bloomin.md",
-    "World Notes/Fauna-Flora/Flora/Undershroom.md"
+    "World Notes/Characters/Legend/Gormallubol.md",
+    "World Notes/Writing & Proses/Birthing of Our Deities.md",
+    "World Notes/Writing & Proses/Golden.md",
+    "World Notes/Writing & Proses/Sixth Witch.md",
+    "World Notes/Writing & Proses/The Dove, The Raven, The Cat.md",
+    "World Notes/Writing & Proses/Peace Treaty of Vitae for Dragons and All.md",
+    "World Notes/Writing & Proses/Under the Pints & Noses.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "World Notes/Characters/People/Royalty-Rulers/Antor"
   ]
 }

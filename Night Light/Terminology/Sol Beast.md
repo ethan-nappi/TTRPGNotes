@@ -1,0 +1,3 @@
+Sol beasts were guardians of [[Noctice]], designed to protect it from evil. After the [[Banishment]], they wander, seemingly finding a new purpose in providing protection for the creatures that remain on [[Noctice]].
+
+Sol beasts communicate telepathically, conveying their thoughts in picture and feeling rather than words. They are pure creatures, only fighting beings of pure evil or anything that threatens to harm it.

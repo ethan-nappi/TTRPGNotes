@@ -1,0 +1,1 @@
+big guy, cillian bought him a drink after he went off about being stolen from by [[The Takers]].

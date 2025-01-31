@@ -3,5 +3,6 @@
   "cssTheme": "ITS Theme",
   "enabledCssSnippets": [
     "Alternate Themes"
-  ]
+  ],
+  "theme": "obsidian"
 }

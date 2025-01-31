@@ -13,7 +13,7 @@ The Airdic Army hadn't stayed strong for long. Soon after 43 ADP, [[League of Vi
 
 ## AIRDIC ARMY
 The Airdic Army was comprised of a number of factions guided by Airda with the same purpose. Their purpose was to take down or take over leadership of large cities and of [[League of Vida Yang]] to secure leadership over the continent of [[Vida Yang]]. Here are a list of factions commonalities between creatures:
--   Draki - Comprised of drakes, wyverns, and many lesser dragon beasts
+-   Draki - Comprised of Green dragons, drakes, wyverns, and many lesser dragon beasts
 -   Pelantine - awakened plant life
 -   Vaquan - a force of undersea humanoids discovered during the war
 -   Kobolds - humanoids that originated from a failed draconic mutation, forced under the earth for their unfortunate nature

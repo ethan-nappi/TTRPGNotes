@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "81f3798ec347081f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5d69fee9b146aaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a44b51809fe58fc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/! PC/Six.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7838fa11be3a98c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/! PC/Balalaika.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afb58b75111dba4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/! PC/Gully.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcad0294f28032bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "! World info/Campaign brief.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7c8688759c65a0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Poormund/Mrs Ferry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62e4e4d9ef48c516",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Krieg/Maeve Summers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "598b4c7465ebd2fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Portmoth/Sage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c19a2bcad8635d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ab9796cc6c7e62b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b7ad752d167712e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad7b052c68f7c0c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86b87d61aaae51f8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b0b2ddabb6c1b683",
+    "type": "split",
+    "children": [
+      {
+        "id": "924e9a35f018579c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a09785e8912a738c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "People/Portmoth/Sage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a5576add8bbb5b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "People/Portmoth/Sage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5ea93f7c0194080",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "603dc74e8f831291",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "People/Portmoth/Sage.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "598b4c7465ebd2fb",
+  "lastOpenFiles": [
+    "People/Krieg/Maeve Summers.md",
+    "People/Portmoth",
+    "People/! PC/Kohko.md",
+    "People/Portmoth/Sage.md",
+    "People/Krieg/Karlitos.md",
+    "Organizations/The Putters.md",
+    "Terminology/Emissary.md",
+    "People/Krieg/Mayor Grenndor.md",
+    "Locations/Krieg.md",
+    "People/Poormund/Arnold Havoc.md",
+    "People/Krieg",
+    "Locations/Horne.md",
+    "Organizations/The Fakers.md",
+    "Organizations",
+    "People/Poormund/Rory.md",
+    "People/Poormund/Cillian.md",
+    "Organizations/The Takers.md",
+    "People/Poormund/Mrs Ferry.md",
+    "Locations/Poormond/The Iron Heap.md",
+    "Locations/Poormond",
+    "! World info/Campaign brief.md",
+    "People/New Richmond",
+    "People/New Richmond/King Chester.md",
+    "People/New Richmond/King Archimedes.md",
+    "Locations/Kingdom of Virginia.md",
+    "! World info",
+    "People/! PC/Gully.md",
+    "People/Military/General Rooker.md",
+    "People/Military",
+    "People/! PC/Edmond.md",
+    "People/Poormund/Cavell Ferry.md",
+    "People/! PC/Six.md",
+    "Terminology",
+    "People/Poormund",
+    "People/! PC"
+  ]
+}

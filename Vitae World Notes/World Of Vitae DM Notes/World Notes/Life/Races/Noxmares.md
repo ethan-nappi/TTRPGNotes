@@ -1,1 +1,1 @@
-Their essence and origins are much like the khalastar, but have lost the ability to produce their own energy and must rely on a host for their energy.  
+Beings that reside on the Astral plane. Their essence and origins are much like the khalastar, but have lost the ability to produce their own energy and must rely on a host for their energy.  

@@ -5,7 +5,7 @@ Aspect #2: Lucid dreaming
 Aspect #3: Toll of safety 
 
 Stunts:
-"Bob's" guidance 
+Venn's guidance 
 Got our back 
 Exploit
 
@@ -28,11 +28,9 @@ Quests:
 
 Nutcracker went missing within last year
 
-Nutcracker (10ish?), can percieve and eliminate the spirits, killed "number 87"
+Nutcracker (10ish?), [[Night Baron]], can perceive and eliminate the spirits, killed "number 87"
 
 # Story Ideas
-
-Meet Shiro or Yumi?!?!?!
 
 ## Spirits 
 

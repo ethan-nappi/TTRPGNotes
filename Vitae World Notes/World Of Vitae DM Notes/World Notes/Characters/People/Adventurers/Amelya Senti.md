@@ -13,7 +13,7 @@
 > |Birthday|11th of Snowvall, 1148 ADP|
 > | Current Location | [[Antor]] |
 > |Race|Human|
-> |Age|16|
+> |Age|14|
 > |Height| 5'2|
 > |Occupation|Monster Hunter|
 > ###### Game Info

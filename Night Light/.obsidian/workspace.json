@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9ed518b4b425d8b5",
+        "id": "7fbc38ab7bff80c2",
         "type": "tabs",
         "children": [
           {
-            "id": "a0b4466f0e0c7ae4",
+            "id": "b0dca2ef3242c08c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35b061f436ecf377",
+  "active": "b0dca2ef3242c08c",
   "lastOpenFiles": [
-    "E"
+    "!Story/Banishment.md",
+    "Creatures/Oria.md",
+    "Terminology/Sun Souls.md",
+    "Untitled.md",
+    "Culture/Constellations.md",
+    "Geography/Noctice.md",
+    "Terminology/Sol Beast.md",
+    "Culture",
+    "!Daybreak/Daybreak Village.md",
+    "!Daybreak/Daybreak PLAYERS",
+    "!Daybreak/Daybreak NPCs",
+    "!Daybreak",
+    "Geography",
+    "Locations",
+    "!Quests",
+    "!Story",
+    "Terminology",
+    "Creatures"
   ]
 }

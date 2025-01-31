@@ -1,0 +1,3 @@
+> [!warning]  This page includes spoilers to the story
+
+Ari 19, 1163, [[Roseanne Garrison]] was reportedly captured after going out with her sister, [[Elizabeth Garrison]], to a festival within [[Kitan]]. The Royal family was advised to stay quiet for a few days to see if the royal guard could get to it. By Ari 21, the Queen [[Tellina Garrison-Windire]], had enough and posters went out for her rescue, promising to pay a thousand gold pieces per person that was involved in her rescue. Later that day Elizabeth was seen by citizens fleeing the castle in a hurry leading to speculation that she was involved.  
