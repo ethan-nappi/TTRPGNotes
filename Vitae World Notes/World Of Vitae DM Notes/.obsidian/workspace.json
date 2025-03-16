@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "25702f32f557a56a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
             "id": "e630009f99634dcd",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               "title": "Fantasy Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,7 +63,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -212,7 +226,7 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "2aedda304670eef7",
+  "active": "25702f32f557a56a",
   "lastOpenFiles": [
     "!Starter Notes/The Story.md",
     "!Starter Notes/Vitae Overview (READ ME).md",

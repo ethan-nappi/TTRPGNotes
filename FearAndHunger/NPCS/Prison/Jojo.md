@@ -1,0 +1,1 @@
+Like drew, but without any hair, big but smaller than drew
