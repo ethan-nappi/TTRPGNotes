@@ -25,12 +25,14 @@
             "id": "25702f32f557a56a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "!Starter Notes/The Story.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "The Story"
             }
           },
           {
@@ -228,22 +230,22 @@
   },
   "active": "25702f32f557a56a",
   "lastOpenFiles": [
-    "!Starter Notes/The Story.md",
     "!Starter Notes/Vitae Overview (READ ME).md",
+    "DM Notes/Campaign 3 - Fate/Session Recaps/Session 9 In Motion.md",
+    "DM Notes/Campaign 3 - Fate/Session Recaps/Session 8 The Fight!.md",
+    "Untitled.md",
+    "!Starter Notes/The Story.md",
     "World Notes/Characters/People/Adventurers/Nook.md",
     "DM Notes/Campaign 3 - Fate/Session Recaps/Session 4 Nook.md",
     "DM Notes/Campaign 3 - Fate/Session Recaps/Session 3 The Hunt.md",
     "DM Notes/Campaign 3 - Fate/Session Recaps/Session 2 Sponsorship.md",
     "DM Notes/Campaign 3 - Fate/Session Recaps/Session 5 Rest.md",
     "DM Notes/Campaign 3 - Fate/Session Recaps/Session 6 The Phoenix Queen.md",
-    "DM Notes/Campaign 3 - Fate/Session Recaps/Session 8 The Fight!.md",
-    "DM Notes/Campaign 3 - Fate/Session Recaps/Session 9 In Motion.md",
     "DM Notes/Campaign 3 - Fate/Story Planning/Plot lines.md",
     "DM Notes/Campaign 3 - Fate/Story Planning/Story Notes for Players.md",
     "DM Notes/Campaign 3 - Fate/Things to do before I run the one-shot.md",
     "DM Notes/Campaign 3 - Fate/Session Recaps/Session 1 Pilot.md",
     "DM Notes/Campaign 3 - Fate/Session Recaps/Session 7 Festival.md",
-    "Untitled.md",
     "World Notes/Characters/Legend/Te-Guid.md",
     "World Notes/Characters/People/Adventurers/Hai-Eaght.md",
     "World Notes/Characters/People/Adventurers/Nawvel.md",
