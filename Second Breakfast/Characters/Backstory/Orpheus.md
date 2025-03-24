@@ -1,0 +1,1 @@
+Old mentor. Lead the resistance before [[Tyrel]].

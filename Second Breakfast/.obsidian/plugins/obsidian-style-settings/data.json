@@ -1,0 +1,13 @@
+{
+  "ITS@@select": "wotc-beyond",
+  "ITS@@mini": false,
+  "ITS@@nord": false,
+  "ITS@@t-d": false,
+  "ITS@@slrvb-b": false,
+  "ITS@@s-d": false,
+  "ITS@@slrvb-g": false,
+  "ITS@@canvas-cards": true,
+  "ITS@@canvas-arrow-text-color": true,
+  "ITS@@canvas-milanote": true,
+  "ITS@@accent-color": true
+}

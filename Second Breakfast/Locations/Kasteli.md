@@ -1,0 +1,2 @@
+- Capitol of [[Ithcaria]]
+- [[Tyrel]] & [[Silver]] were raised here

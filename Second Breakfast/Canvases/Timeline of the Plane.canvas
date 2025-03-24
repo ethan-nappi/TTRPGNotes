@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"61bc410401cbec51","type":"text","text":"EARLIEST POINT IN HISTORY","x":-305,"y":-179,"width":705,"height":60,"color":"1"},
+		{"id":"1b10617979a149af","type":"text","text":"Present day","x":-305,"y":510,"width":705,"height":50,"color":"1"},
+		{"id":"55bdd4bbb075d3d6","type":"text","text":"World remade - flood","x":-77,"y":20,"width":250,"height":60,"color":"6"},
+		{"id":"7689cd1eeb6aeb34","type":"text","text":"World remade - beasts","x":-77,"y":120,"width":250,"height":60,"color":"4"},
+		{"id":"aced717d57439996","type":"text","text":"World remade - fire","x":-77,"y":-80,"width":250,"height":60,"color":"2"},
+		{"id":"dba7bc5f19802104","type":"text","text":"Player influence events","x":299,"y":-80,"width":250,"height":60},
+		{"id":"ef689bb3dfc7ba02","type":"text","text":"[[Ithcaria's Exodus]], 14 years ago","x":299,"y":420,"width":324,"height":60},
+		{"id":"fc7d46ee5af38bf2","type":"text","text":"Three Sacred Rounds Before on Star Twelve-Torch, [[Tyrel]] is born","x":299,"y":260,"width":648,"height":60},
+		{"id":"cf010d8a24a11c5c","x":-77,"y":620,"width":250,"height":60,"color":"#990026","type":"text","text":"World remade - blood"},
+		{"id":"3b4d804adfd915a6","x":299,"y":340,"width":250,"height":60,"type":"text","text":"[[Tyrel]] meets [[Odessa]]"}
+	],
+	"edges":[
+		{"id":"6613448d14e7b3ae","fromNode":"61bc410401cbec51","fromSide":"bottom","toNode":"aced717d57439996","toSide":"top"},
+		{"id":"8a8a62a9c86fe3d9","fromNode":"aced717d57439996","fromSide":"bottom","toNode":"55bdd4bbb075d3d6","toSide":"top"},
+		{"id":"28c614e93fca8ddb","fromNode":"55bdd4bbb075d3d6","fromSide":"bottom","toNode":"7689cd1eeb6aeb34","toSide":"top"}
+	]
+}

@@ -1,0 +1,4 @@
+- His father died under mysterious circumstances.
+- Was(?) hunting for "the elixir of life."
+- Probably not happy with Tyrel
+- turned treasure hunters into aristocrats

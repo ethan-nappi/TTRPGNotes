@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"20c3063361d138e6","type":"group","x":-1440,"y":158,"width":480,"height":2202,"color":"3","label":"PARTY"},
+		{"id":"94480d5b38297a43","type":"group","x":-800,"y":158,"width":1280,"height":440,"color":"#940f00","label":"Vastorionós Family"},
+		{"id":"bea560d6f6451ec6","type":"file","file":"Characters/Party/Tyrel.md","x":-780,"y":178,"width":400,"height":400},
+		{"id":"c9b86f1a4fb47c25","type":"file","file":"Characters/Backstory/Iris.md","x":-360,"y":178,"width":400,"height":400},
+		{"id":"326602fe3dd3e859","type":"file","file":"Characters/Backstory/Odessa.md","x":60,"y":178,"width":400,"height":400},
+		{"id":"ccd2199e9b621aa9","type":"file","file":"Characters/Party/Tyrel.md","x":-1400,"y":178,"width":400,"height":400},
+		{"id":"61ce4a381871a5a7","type":"file","file":"Characters/Party/Gul.md","x":-1400,"y":618,"width":400,"height":400},
+		{"id":"96c2346bc51cf0d3","type":"file","file":"Characters/Party/Sprout.md","x":-1400,"y":1058,"width":400,"height":400},
+		{"id":"bf8b68487b8b3d97","type":"file","file":"Characters/Party/Rossi.md","x":-1400,"y":1498,"width":400,"height":400},
+		{"id":"3179a989362a8bbe","type":"file","file":"Characters/Party/Silver.md","x":-1400,"y":1938,"width":400,"height":400},
+		{"id":"60bed08a316b9905","type":"file","file":"Session History/Session 1.md","x":-1980,"y":173,"width":400,"height":52},
+		{"id":"b5659fea9277f06b","type":"file","file":"Session History/Session 2.md","x":-1980,"y":245,"width":400,"height":50},
+		{"id":"892e18fe3049061f","type":"file","file":"Session History/Session 3.md","x":-1980,"y":315,"width":400,"height":65},
+		{"id":"cc3818e62f552629","type":"file","file":"Session History/Session 4.md","x":-1980,"y":400,"width":400,"height":61},
+		{"id":"89b9e3ebd226ad89","type":"file","file":"Session History/Session 5.md","x":-1980,"y":481,"width":400,"height":67},
+		{"id":"15a6c506ba751770","type":"file","file":"Session History/Session 6.md","x":-1980,"y":568,"width":400,"height":82}
+	],
+	"edges":[
+		{"id":"5b3629e6bb1d3c5f","fromNode":"ccd2199e9b621aa9","fromSide":"right","toNode":"94480d5b38297a43","toSide":"left","color":"1"}
+	]
+}

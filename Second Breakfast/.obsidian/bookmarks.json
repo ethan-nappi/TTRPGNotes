@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1742355032467,
+      "path": "Canvases/Overview Notes.canvas"
+    },
+    {
+      "type": "group",
+      "ctime": 1742355039745,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1742355028977,
+          "path": "Characters/Party/Gul.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1742355026409,
+          "path": "Characters/Party/Rossi.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1742355023805,
+          "path": "Characters/Party/Silver.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1742355021307,
+          "path": "Characters/Party/Sprout.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1742355012629,
+          "path": "Characters/Party/Tyrel.md"
+        }
+      ],
+      "title": "Party"
+    }
+  ]
+}

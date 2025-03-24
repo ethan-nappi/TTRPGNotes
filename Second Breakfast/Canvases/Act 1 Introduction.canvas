@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e8ee224cd840b45c","x":-920,"y":-320,"width":440,"height":2200,"color":"3","type":"group","label":"party"},
+		{"id":"eb7a6543a46e1b36","x":-422,"y":-297,"width":250,"height":60,"type":"text","text":"Level 1 -> 3"},
+		{"id":"37a80451d1833a42","x":-422,"y":-220,"width":250,"height":140,"type":"text","text":"Met in [[Myerfell]] at the [[Honeypot Tavern]]"},
+		{"id":"95f0250ccd598ca4","x":-900,"y":-300,"width":400,"height":400,"type":"file","file":"Characters/Party/Gul.md"},
+		{"id":"bcd69c3607a13f54","x":-900,"y":140,"width":400,"height":400,"type":"file","file":"Characters/Party/Rossi.md"},
+		{"id":"46732c142ce44e76","x":-900,"y":580,"width":400,"height":400,"type":"file","file":"Characters/Party/Silver.md"},
+		{"id":"0158cb8bf8c0a57f","x":-900,"y":1020,"width":400,"height":400,"type":"file","file":"Characters/Party/Sprout.md"},
+		{"id":"f15cfba4550f65d0","x":-900,"y":1460,"width":400,"height":400,"type":"file","file":"Characters/Party/Tyrel.md"}
+	],
+	"edges":[]
+}
