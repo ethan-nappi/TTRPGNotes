@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Party/Tyrel.md",
+                "file": "Session History/Session 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tyrel"
+              "title": "Session 10"
             }
           }
         ]
@@ -157,7 +157,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Characters/Party/Tyrel.md"
+                "file": "Session History/Session 10.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -185,6 +185,30 @@
   },
   "active": "104fcddc6e049e4a",
   "lastOpenFiles": [
+    "Session History/Session 9.md",
+    "Session History/Session 8.md",
+    "Session History/Session 7.md",
+    "Session History/Session 5.md",
+    "Session History/Session 6.md",
+    "Session History/Session 10.md",
+    "Session History/Session 2.md",
+    "Settlements/Dailna.md",
+    "Locations/Untitled",
+    "Settlements/POIs",
+    "Settlements/Cities",
+    "Settlements/Locations/Xal-Wyn's Home.md",
+    "Settlements",
+    "Characters/Myerfell/Xal-Wyn.md",
+    "Settlements/Myerfell.md",
+    "Characters/Dieties/Aidor.md",
+    "Characters/Myerfell/Renata.md",
+    "Characters/Magical/Nightwind.md",
+    "Canvases/Overview Notes.canvas",
+    "Canvases/Act 1 Introduction.canvas",
+    "Session 7 2.md",
+    "Canvases/Quests.base",
+    "Canvases/Quests.canvas",
+    "Characters/Party/Tyrel.md",
     "Characters/Backstory - Tyrel/Orpheus.md",
     "Characters/Backstory - Tyrel",
     "Characters/Backstory - Tyrel/Odessa.md",
@@ -195,36 +219,13 @@
     "Characters/Backstory/Dalia.md",
     "Characters/Backstory/Cassi.md",
     "Characters/Backstory/Annwn.md",
-    "Characters/Party/Tyrel.md",
     "Characters/Backstory - Tyrel/Percy.md",
-    "Locations/The Golden Palace.md",
-    "Characters/Party/Gul.md",
-    "Characters/Party/Rossi.md",
-    "Characters/Party/Silver.md",
-    "Characters/Party/Sprout.md",
-    "Canvases/Overview Notes.canvas",
-    "Canvases/Act 1 Introduction.canvas",
-    "Characters/Backstory - Tyrel/Poly.md",
-    "Characters/Backstory/Serena Silver.md",
-    "Characters/Animals/Rat.md",
-    "Characters/Animals/Pumpkin.md",
-    "Characters/Animals/Majesty.md",
-    "Characters/Red dragon.md",
-    "Characters/Magical/blue eyes shadowy man.md",
-    "Characters/Ithcaria/King Aeson.md",
-    "Characters/Myerfell/Humbert Northridge.md",
     "Items/Quest Items",
     "LORE",
     "Races",
-    "Canvases/Quests.base",
-    "Canvases/Quests.canvas",
     "Untitled.base",
     "zz Images/Pasted image 20250318225552.png",
     "zz Images/Pasted image 20250318231743.png",
-    "z One Shots",
-    "Canvases/Timeline of the Plane.canvas",
-    "z One Shots/Toe And Co/Act 3 Library",
-    "z One Shots/Toe And Co/Act 3 Library/Library NPCS",
-    "Toe And Co/Characters/NPCs"
+    "Canvases/Timeline of the Plane.canvas"
   ]
 }
