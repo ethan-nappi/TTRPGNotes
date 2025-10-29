@@ -1,0 +1,3 @@
+- cHill giant
+- Handed him the worlds best tasting wine ([[Wild Wine]]) so we're chill now
+- He protects [[Asteria]] in return for wine

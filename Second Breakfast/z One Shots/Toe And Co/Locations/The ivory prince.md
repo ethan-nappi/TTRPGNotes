@@ -1,0 +1,1 @@
+Inn in Kelly's one-shot, lead to [[Vanheidan's Hoard]] quest

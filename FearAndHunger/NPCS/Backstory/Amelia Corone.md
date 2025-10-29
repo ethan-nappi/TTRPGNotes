@@ -1,0 +1,1 @@
+Died mysteriously after Drew left. They had a fight last he said. She was shot.

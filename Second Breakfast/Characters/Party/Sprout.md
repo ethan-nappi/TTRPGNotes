@@ -1,10 +1,13 @@
 Age 28 (any/any)
-Halfling Rogue-Cleric
+Aroace
+3'1
+Halfling Rogue/Night Cleric
 Member of [[The Infernal Hand]]
 Cleric of [[Balan]]
 
-- _is looking for a Bram and cooper??_
 - [[Mistle]] a younger girl, she has met Sprout before 
-- Stabbed their heart (hopefully metaphorically)
+	- sprout has managed to copy her signature pretty accurately
+
 - Below image was seen in a vision outside [[The Golden Palace]]
+	- Stabbed their heart (hopefully metaphorically)
  ![[Pasted image 20250318225552.png]]

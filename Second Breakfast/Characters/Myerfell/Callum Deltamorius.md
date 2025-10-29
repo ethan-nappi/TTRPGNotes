@@ -1,0 +1,1 @@
+Head of the guard in [[Myerfell]], Tyrel has a deep respect for him since he chose to show up to the fairy portal.

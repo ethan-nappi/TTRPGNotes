@@ -1,0 +1,1 @@
+kobolds talked about their being a "great red one"

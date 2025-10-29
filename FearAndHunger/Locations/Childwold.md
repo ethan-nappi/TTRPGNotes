@@ -1,0 +1,1 @@
+nearby town where a picture of [[Rocko Corone]] was taken with 

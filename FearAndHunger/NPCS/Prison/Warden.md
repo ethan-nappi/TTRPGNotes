@@ -1,1 +1,1 @@
-Jerk, khnows something is happening with the "wildfire"
+Jerk, knows something is happening with the "wildfire"

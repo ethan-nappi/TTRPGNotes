@@ -1,0 +1,1 @@
+this is the flower we needed to collect in that cave for Xal'Wyn to make the mind resilience potions

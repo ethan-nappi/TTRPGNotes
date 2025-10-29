@@ -1,0 +1,1 @@
+"it's a spellbound necklace", they can find another matching necklace if they know the activation word

@@ -1,0 +1,1 @@
+we pinged a connection to the ranger

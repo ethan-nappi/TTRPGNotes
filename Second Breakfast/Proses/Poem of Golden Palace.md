@@ -2,7 +2,7 @@ Once upon a time, a swarm of terror descended over the world under cover of a wi
 
 Blood stained the kingdom red while rulers argued and people panicked.
 
-The king’s daughter ([[the princess]]) escaped from the nightmare each month into a beautiful dream, walking through a field of yellow flowers toward a palace so much like her own but brilliant and bejeweled.
+The king’s daughter ([[Felecia]]) escaped from the nightmare each month into a beautiful dream, walking through a field of yellow flowers toward a palace so much like her own but brilliant and bejeweled.
 
 Then, for the first time she stayed in one of the soft beds of her new home and thought to herself before sleep took her, ‘One more peaceful night, then I will share my paradise with all the children of my kingdom. Let our mothers, fathers, watchers and wardens keep the land they broke.’
 

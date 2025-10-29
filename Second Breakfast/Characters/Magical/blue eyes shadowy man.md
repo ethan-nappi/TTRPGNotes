@@ -1,0 +1,1 @@
+met him underground below [[The Golden Palace]], was protecting the door to the orb of despair that held the children's negative emotions/memories

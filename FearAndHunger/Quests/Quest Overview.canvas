@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"12cb0ca21f63d8b5","x":-940,"y":-290,"width":250,"height":60,"type":"text","text":"- Save Rocko"},
+		{"id":"0fe907759f8f7eae","x":-940,"y":-340,"width":500,"height":50,"type":"text","text":"- Fischer wants us to retrieve his wife's ashes, credit reward"},
+		{"id":"3b3ba7933ac7ce0a","x":-940,"y":-430,"width":500,"height":60,"color":"4","type":"text","text":"AVAILABLE"},
+		{"id":"8ee05b84553c163a","x":-80,"y":-430,"width":250,"height":60,"color":"3","type":"text","text":"COMPLETED"},
+		{"id":"70cd339e4d288c71","x":-80,"y":120,"width":250,"height":60,"color":"1","type":"text","text":"FAILED"},
+		{"id":"4bfea8604c830fcb","x":-1560,"y":-478,"width":400,"height":78,"type":"file","file":"NPCS/Fischer Family/Fischer.md"},
+		{"id":"5887230fc19937a7","x":-1560,"y":-200,"width":400,"height":76,"type":"file","file":"NPCS/Backstory/Casey Doctrine.md"},
+		{"id":"9cd0489e6397b032","x":-1560,"y":-306,"width":400,"height":76,"type":"file","file":"NPCS/Backstory/Rocko Corone.md"}
+	],
+	"edges":[
+		{"id":"c906fda09dd52898","fromNode":"9cd0489e6397b032","fromSide":"right","toNode":"12cb0ca21f63d8b5","toSide":"left"},
+		{"id":"5146076226f262bf","fromNode":"4bfea8604c830fcb","fromSide":"right","toNode":"0fe907759f8f7eae","toSide":"left"},
+		{"id":"b32d698abe44e1df","fromNode":"5887230fc19937a7","fromSide":"right","toNode":"12cb0ca21f63d8b5","toSide":"left"}
+	]
+}

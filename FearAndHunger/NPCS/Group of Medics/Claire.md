@@ -1,0 +1,1 @@
+Blonde bob, torn military fatigues

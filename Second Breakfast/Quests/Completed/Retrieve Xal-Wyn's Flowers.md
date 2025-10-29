@@ -1,0 +1,1 @@
+get a ton of [[Midnight Flower]]s for a [[mind resistance potion]]

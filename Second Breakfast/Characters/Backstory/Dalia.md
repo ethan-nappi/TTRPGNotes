@@ -1,0 +1,1 @@
+[[Rossi]]'s friend?

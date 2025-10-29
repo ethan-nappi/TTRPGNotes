@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"5d312e7e1981f853","type":"file","file":"Locations/Mountains.md","x":-140,"y":-420,"width":400,"height":90},
+		{"id":"3caa00336ae30de5","type":"file","file":"Locations/Cascade Penitentiary.md","x":-100,"y":-330,"width":320,"height":97},
+		{"id":"b00cf0d5fb1705e2","type":"text","text":"start!","x":-65,"y":-500,"width":250,"height":60,"color":"1"},
+		{"id":"f0454aba6b41b2ab","type":"text","text":"10 random outposts belonging to [[The Forsaken]] are around\nScorched earth by the prison","x":-95,"y":-233,"width":310,"height":76},
+		{"id":"2b32f186bf7299b5","type":"text","text":"Forest","x":560,"y":-470,"width":360,"height":331},
+		{"id":"99ad79e6d55a3ffc","type":"text","text":"Golf course has a circle","x":-295,"y":-59,"width":250,"height":60},
+		{"id":"5adea54b753f5c90","type":"text","text":"We went West after the escape","x":-1130,"y":-311,"width":250,"height":60},
+		{"id":"7b852832934330d6","type":"file","file":"Locations/Addies/Drew's Addie.md","x":-1164,"y":-495,"width":319,"height":110},
+		{"id":"55fed08e7718e4b3","type":"file","file":"Locations/Strip mall - something plaza.md","x":-1740,"y":-483,"width":440,"height":87},
+		{"id":"c6b78534006de20d","type":"file","file":"Locations/Addies/Fischer's Addie.md","x":-755,"y":-689,"width":283,"height":90},
+		{"id":"17c58703323306d5","type":"text","text":"Paddy's Addie","x":-1256,"y":-763,"width":250,"height":60},
+		{"id":"f2483824c30a2083","type":"text","text":"","x":-1255,"y":-703,"width":250,"height":60},
+		{"id":"83cfe72ee18a92f2","type":"text","text":"Addie","x":-1005,"y":-689,"width":250,"height":60},
+		{"id":"ec1f260191b510c0","type":"file","file":"z Unorganized/Park Ranger.md","x":-442,"y":-910,"width":400,"height":147},
+		{"id":"f24625927c68241a","type":"text","text":"Ranger station + radio tower","x":-442,"y":-763,"width":295,"height":60},
+		{"id":"84fd5e2e386516e7","type":"text","text":"Amazon building, Fischer went missing here","x":-755,"y":-896,"width":250,"height":60},
+		{"id":"762d9ce9efc4dce7","x":-1448,"y":-61,"width":400,"height":161,"type":"file","file":"Locations/Childwold.md"}
+	],
+	"edges":[
+		{"id":"76b837fa8eb0ea03","fromNode":"3caa00336ae30de5","fromSide":"left","toNode":"5adea54b753f5c90","toSide":"right"},
+		{"id":"8afa585be072d935","fromNode":"5adea54b753f5c90","fromSide":"top","toNode":"7b852832934330d6","toSide":"bottom"}
+	]
+}

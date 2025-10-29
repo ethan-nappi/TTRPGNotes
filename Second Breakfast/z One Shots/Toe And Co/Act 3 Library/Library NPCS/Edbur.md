@@ -1,0 +1,1 @@
+father of [[Gillby]], librarian, always studying, likes quiet, very focused

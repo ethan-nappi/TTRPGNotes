@@ -1,0 +1,1 @@
+The whole party met eachother at the [[Honeypot Tavern]] in [[Myerfell]] and we began the [[Save the kids]] questline. We heard word of a mage, [[Xal-Wyn]] who was knowledgeable of the Fae.

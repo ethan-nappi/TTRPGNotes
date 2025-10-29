@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"a8e385c120dc02a4","type":"group","x":560,"y":-400,"width":480,"height":1160,"color":"1"},
+		{"id":"bf9a9e5f24779c9e","type":"group","x":40,"y":-400,"width":480,"height":1160,"color":"4","label":"Untitled group"},
+		{"id":"52971082a38b64fe","type":"group","x":-480,"y":-400,"width":480,"height":1160,"color":"3","label":"Untitled group"},
+		{"id":"4f8744301fadee23","type":"group","x":-1000,"y":-400,"width":470,"height":1160,"label":"Untitled group"},
+		{"id":"4da674d511098c2c","type":"text","text":"# Completed","x":195,"y":-495,"width":250,"height":60},
+		{"id":"7977f7e5f33116bc","type":"file","file":"Quests/Completed/Save the kids.md","x":80,"y":-339,"width":400,"height":360},
+		{"id":"cf10c9dd12bd6737","type":"text","text":"# Active","x":-369,"y":-495,"width":250,"height":60},
+		{"id":"00e40fa82742f540","type":"text","text":"# Inactive","x":-885,"y":-495,"width":250,"height":60},
+		{"id":"1ab59c17b6541505","type":"file","file":"Quests/Active/Tyrel's Quest.md","x":-444,"y":-359,"width":400,"height":59},
+		{"id":"bf14a62e0ebb2d22","type":"file","file":"Quests/Active/Connecting the necklaces.md","x":-444,"y":-260,"width":400,"height":180},
+		{"id":"8f8c9dc041903472","type":"text","text":"# Failed","x":640,"y":-495,"width":250,"height":60}
+	],
+	"edges":[]
+}

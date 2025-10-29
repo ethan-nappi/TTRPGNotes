@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"bf87c0173702f240","type":"group","x":-491,"y":-269,"width":451,"height":1189,"label":"Party"},
+		{"id":"fa803868b08033fc","type":"file","file":"!Party/Drew Corone.md","x":-471,"y":-249,"width":400,"height":269},
+		{"id":"bcd0840edcc1c099","type":"file","file":"!Party/Nigh.md","x":-471,"y":40,"width":400,"height":269},
+		{"id":"7a594ad601c80df1","type":"file","file":"!Party/Nova.md","x":-471,"y":329,"width":400,"height":269},
+		{"id":"c754bdc04c90c17a","type":"file","file":"!Party/Rook.md","x":-471,"y":618,"width":400,"height":269},
+		{"id":"fdfde1c6a2429d4b","x":-1140,"y":-249,"width":440,"height":60,"type":"text","text":"Game started DEC 10"}
+	],
+	"edges":[]
+}
