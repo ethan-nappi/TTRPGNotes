@@ -11,14 +11,17 @@
             "id": "104fcddc6e049e4a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Session History/Session 10.md",
-                "mode": "source",
-                "source": false
+                "file": "Canvases/Overview Notes.canvas",
+                "viewState": {
+                  "x": -2110.3909876543207,
+                  "y": 1254.477037037037,
+                  "zoom": -1.4862535318644328
+                }
               },
-              "icon": "lucide-file",
-              "title": "Session 10"
+              "icon": "lucide-layout-dashboard",
+              "title": "Overview Notes"
             }
           }
         ]
@@ -185,12 +188,28 @@
   },
   "active": "104fcddc6e049e4a",
   "lastOpenFiles": [
+    "Canvases/Overview Notes.canvas",
+    "Canvases/Act 1 Introduction.canvas",
+    "Canvases/Quests.canvas",
+    "Canvases/Quests.base",
+    "Session History/Session 11.md",
+    "Session History/Session 10.md",
+    "Proses/Poem of Golden Palace.md",
+    "Organizations And Groups/Cult Group.md",
+    "Proses/Rossi's Dream.md",
+    "zz Images/Pasted image 20250318231743.png",
+    "zz Images/Pasted image 20250318225552.png",
+    "Organizations And Groups/The Infernal Hand.md",
+    "Curios",
+    "Characters/Magical/blue eyes shadowy man.md",
+    "Items/Quest Items/Stone Knob - Eye.md",
+    "Characters/Backstory/Annwn.md",
+    "Characters/Party/Rossi.md",
     "Session History/Session 9.md",
     "Session History/Session 8.md",
     "Session History/Session 7.md",
     "Session History/Session 5.md",
     "Session History/Session 6.md",
-    "Session History/Session 10.md",
     "Session History/Session 2.md",
     "Settlements/Dailna.md",
     "Locations/Untitled",
@@ -203,29 +222,12 @@
     "Characters/Dieties/Aidor.md",
     "Characters/Myerfell/Renata.md",
     "Characters/Magical/Nightwind.md",
-    "Canvases/Overview Notes.canvas",
-    "Canvases/Act 1 Introduction.canvas",
     "Session 7 2.md",
-    "Canvases/Quests.base",
-    "Canvases/Quests.canvas",
     "Characters/Party/Tyrel.md",
-    "Characters/Backstory - Tyrel/Orpheus.md",
     "Characters/Backstory - Tyrel",
-    "Characters/Backstory - Tyrel/Odessa.md",
-    "Characters/Backstory/Mistle.md",
-    "Characters/Backstory/Kierian Silver.md",
-    "Characters/Backstory - Tyrel/Iris.md",
-    "Characters/Backstory/Grikskil.md",
-    "Characters/Backstory/Dalia.md",
-    "Characters/Backstory/Cassi.md",
-    "Characters/Backstory/Annwn.md",
-    "Characters/Backstory - Tyrel/Percy.md",
     "Items/Quest Items",
     "LORE",
     "Races",
-    "Untitled.base",
-    "zz Images/Pasted image 20250318225552.png",
-    "zz Images/Pasted image 20250318231743.png",
     "Canvases/Timeline of the Plane.canvas"
   ]
 }

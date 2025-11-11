@@ -11,3 +11,5 @@ Has died??
 *Rossi made a trade, won't say what*
 
 Rossi has a symbol on her that is associated with damnation and other scary words that start with D (partially quoting Silver)
+
+[[Rossi's Dream]] 
