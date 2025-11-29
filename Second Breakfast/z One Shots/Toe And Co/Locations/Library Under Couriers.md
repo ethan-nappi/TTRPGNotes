@@ -1,1 +1,1 @@
-[[Crinkle]] [[Edbur]] [[Gillby]] [[Katula]] [[Varnyr]]
+[[Crinkle]] [[Edbur]] [[Gailby]] [[Katula]] [[Varnyr]]

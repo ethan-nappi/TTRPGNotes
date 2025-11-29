@@ -1,0 +1,1 @@
+government, merchant, runs trade post

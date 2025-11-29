@@ -5,3 +5,5 @@ details on random notes from this quest in [[Vaguely Fae]]
 
 40 children, saved from the golden palace, including [[Felecia]]
 lava lamp of depression was bursted and the children's memories were restored
+
+Myerfell needs aid to support the kids. They requested possible help from [[Annandale]]

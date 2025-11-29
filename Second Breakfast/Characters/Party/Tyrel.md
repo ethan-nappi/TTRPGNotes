@@ -15,4 +15,5 @@ Mentored by [[Orpheus]]
 
 Birthday: _Three Sacred Rounds before on Torch Twelve-Coin_ (Solhelm).
 
+A prophecy naming the child of his beloved friend as his _downfall_ is given. - Quote from abbey in dms, the italicized word may be changed. She may make a poem out of this.
 It's been less than a month since Tyrel left Asteria.

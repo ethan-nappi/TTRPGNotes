@@ -4,13 +4,22 @@
 		{"id":"bf9a9e5f24779c9e","type":"group","x":40,"y":-400,"width":480,"height":1160,"color":"4","label":"Untitled group"},
 		{"id":"52971082a38b64fe","type":"group","x":-480,"y":-400,"width":480,"height":1160,"color":"3","label":"Untitled group"},
 		{"id":"4f8744301fadee23","type":"group","x":-1000,"y":-400,"width":470,"height":1160,"label":"Untitled group"},
-		{"id":"4da674d511098c2c","type":"text","text":"# Completed","x":195,"y":-495,"width":250,"height":60},
-		{"id":"7977f7e5f33116bc","type":"file","file":"Quests/Completed/Save the kids.md","x":80,"y":-339,"width":400,"height":360},
+		{"id":"1ab59c17b6541505","type":"file","file":"Quests/Active/Tyrel's Quest.md","x":-444,"y":-359,"width":400,"height":59},
 		{"id":"cf10c9dd12bd6737","type":"text","text":"# Active","x":-369,"y":-495,"width":250,"height":60},
 		{"id":"00e40fa82742f540","type":"text","text":"# Inactive","x":-885,"y":-495,"width":250,"height":60},
-		{"id":"1ab59c17b6541505","type":"file","file":"Quests/Active/Tyrel's Quest.md","x":-444,"y":-359,"width":400,"height":59},
-		{"id":"bf14a62e0ebb2d22","type":"file","file":"Quests/Active/Connecting the necklaces.md","x":-444,"y":-260,"width":400,"height":180},
-		{"id":"8f8c9dc041903472","type":"text","text":"# Failed","x":640,"y":-495,"width":250,"height":60}
+		{"id":"bf14a62e0ebb2d22","type":"file","file":"Quests/Active/Connecting the necklaces.md","x":-444,"y":-290,"width":400,"height":120},
+		{"id":"7977f7e5f33116bc","type":"file","file":"Quests/Active/Save the kids.md","x":-444,"y":-150,"width":400,"height":110},
+		{"id":"a1ccc3ba5f3fd021","type":"file","file":"Quests/Completed/Retrieve Xal-Wyn's Flowers.md","x":80,"y":-370,"width":400,"height":400},
+		{"id":"4da674d511098c2c","type":"text","text":"# Completed","x":155,"y":-495,"width":250,"height":60},
+		{"id":"8f8c9dc041903472","type":"text","text":"# Failed","x":680,"y":-495,"width":250,"height":60},
+		{"id":"bc679deedcbc9fd2","type":"file","file":"Quests/INACTIVE/Mariel's Toppled Shrine.md","x":-960,"y":-370,"width":400,"height":400},
+		{"id":"34d5d90e6764c363","type":"file","file":"Quests/Active/death from the sky.md","x":-444,"y":0,"width":400,"height":128},
+		{"id":"6466d8787d431390","type":"file","file":"Quests/Active/Xalwyn's Mentor Quest.md","x":-444,"y":160,"width":400,"height":218}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"c867fbffdb2ae5ac","fromNode":"cf10c9dd12bd6737","fromSide":"bottom","toNode":"52971082a38b64fe","toSide":"top"},
+		{"id":"e061b7f9509e74c8","fromNode":"4da674d511098c2c","fromSide":"bottom","toNode":"bf9a9e5f24779c9e","toSide":"top"},
+		{"id":"ce9410265a1f5dc5","fromNode":"8f8c9dc041903472","fromSide":"bottom","toNode":"a8e385c120dc02a4","toSide":"top"},
+		{"id":"882f789d6321b30d","fromNode":"00e40fa82742f540","fromSide":"bottom","toNode":"4f8744301fadee23","toSide":"top"}
+	]
 }
