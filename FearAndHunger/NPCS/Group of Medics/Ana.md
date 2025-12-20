@@ -1,1 +1,1 @@
-long red hair, parka
+youngest of their group, long red hair, parka
